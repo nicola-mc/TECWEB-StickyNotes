@@ -1,0 +1,56 @@
+img{
+    width: 70px;
+    height: 70px;
+}
+
+body{
+    text-align: center;
+    font-family:arial,sans-serif;
+    font-size:100%;
+    margin:3em;
+    background:#666;
+    color:#fff;
+}
+
+.d1v{
+    background-color: goldenrod;
+    color: black;
+    position: relative;
+    height:12em;
+    width:12em;
+    text-align:center;
+    float:left;
+    margin:1em;
+}
+
+.d1v img{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    right: 0;
+    bottom: 0;
+}
+
+#option-1{
+    background-color: tomato;
+}
+
+#option-2{
+    background-color: goldenrod;
+}
+
+#option-3{
+     background-color: burlywood;
+ }
+
+#option-4{
+    background-color: skyblue;
+}
+
+#option-5{
+    background-color: forestgreen;
+}
+
+#option-6{
+    background-color: blueviolet;
+}
